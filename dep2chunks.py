@@ -2,7 +2,6 @@
 import sys, os
 import argparse
 from ud_utils import *
-from conllu import numerical_symbol
 
 def main():
 

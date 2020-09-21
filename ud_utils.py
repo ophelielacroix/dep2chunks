@@ -335,3 +335,5 @@ chunk_deps = {"NP" : { "primary" : {"amod" : [],
                     "secondary" : {}
                         },
 }
+
+numerical_symbol = ["$", "%", "£", "°", "€", "n°", "kw", "kg", "g", "km", "cm", "mm", "m", "m²", "cm²", "mm²", "km²"]
